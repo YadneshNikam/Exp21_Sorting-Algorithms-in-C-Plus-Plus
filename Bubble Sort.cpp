@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-21
+//Yadnesh Nikam
+//24070123134
 #include<iostream>
 #include<vector>
 class bubleSort{
@@ -59,4 +60,5 @@ int main(){
 output:
 Sorted array: -1 0 3 5 9 12 
 Element found at index: 4
+
 */
