@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-21
+//Yadnesh Nikam
+//24070123134
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -29,4 +30,5 @@ int main(){
 /*
 output:
 Sorted array: 1 5 7 8 9 10 
+
 */
